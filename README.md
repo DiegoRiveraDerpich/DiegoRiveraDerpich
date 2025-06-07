@@ -46,3 +46,9 @@
 
 ## My GitHub Stats :chart_with_upwards_trend:
 [![Diego Rivera's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRiveraDerpich)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRiveraDerpich)](https://github.com/anuraghazra/github-readme-stats)
+
+## :busts_in_silhouette: Conect with ME
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.rivera@derpich.cl)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rivera-derpich-5855691b9/)
+
